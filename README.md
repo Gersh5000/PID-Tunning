@@ -11,6 +11,7 @@ Hardware requirements:
 Arduino based self-balancing robot with bluetooth module
 Android device with bluetooth (not sure if there are devices without one, but just in case)
 
+
 Files:
 
 bt.ino - Arduino code inteneded to be added to existing self-balancing code
