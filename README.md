@@ -8,6 +8,7 @@ If I make it work I will add a video link to this file
 Once released it will be:
 
 Hardware requirements:
+
 Arduino based self-balancing robot with bluetooth module
 Android device with bluetooth (not sure if there are devices without one, but just in case)
 
